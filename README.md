@@ -15,14 +15,12 @@ A fully responsive UltraEdit landing page clone created with html and css,featur
 -Clean UI inspired by the original UltraEdit Website
 <br>
 ## Technologies Used
-<br>
 -HTML5
 <br>
 -CSS3
 <br>
 
 ## Future Improvement
-<br>
 -Add JavaScript for a responsive hamburger menu
 <br>
 -Add animations and transitions
