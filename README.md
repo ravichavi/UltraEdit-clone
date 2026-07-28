@@ -33,6 +33,6 @@ A fully responsive UltraEdit landing page clone built using HTML5 and CSS3. The 
 ### Desktop responsive
 
 ## Live Demo
-
+https://ravichavi.github.io/UltraEdit-clone/
 ## Author
 Chavi Bansal
