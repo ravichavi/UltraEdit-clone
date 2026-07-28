@@ -1,7 +1,7 @@
 # UltraEdit-clone
 A fully responsive UltraEdit landing page clone created with html and css,featuring flexbox,css grid and media queries
 <br>
-#Features
+## Features
 <br>
 -Responsive Design for desktop,tablet and mobile
 <br>
@@ -14,12 +14,12 @@ A fully responsive UltraEdit landing page clone created with html and css,featur
 -Semantic HTML5
 <br>
 -Clean UI inspired by the original UltraEdit Website
-#Technologies Used
+## Technologies Used
 <br>
 -HTML5
 <br>
 -CSS3
-#Future Improvement
+## Future Improvement
 <br>
 -Add JavaScript for a responsive hamburger menu
 <br>
