@@ -8,15 +8,16 @@ A fully responsive UltraEdit landing page clone built using HTML5 and CSS3. The 
 - Media Queries
 - Semantic HTML5
 - Clean UI inspired by the original UltraEdit Website
-<br>
+  
 ## Technologies Used
 - HTML5
 - CSS3
+  
 ## Future Improvement
 - Add JavaScript for a responsive hamburger menu
 - Add animations and transitions
 - Make the FAQ interactive
-<br>
+  
 ## Screenshots
 
 <img width="482" height="871" alt="Screenshot 2026-07-28 154651" src="https://github.com/user-attachments/assets/293faa14-2a67-463b-a072-da48fa90058e" />
